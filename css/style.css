@@ -1,6 +1,11 @@
-/* style.css - base styles for the site
-   Comments: This file contains core visual styles for layout, cards, header, and footer.
-   Responsive rules are kept in css/responsive.css */
+/* 
+  style.css - base styles for the site
+  Comments: This file contains core visual styles for layout, cards, header, and footer.
+  Responsive rules are kept in css/responsive.css 
+
+*/
+
+
 :root{
   --bg: #faf7f0; /* off-white background for the whole site */
   --text: #222;
@@ -28,7 +33,7 @@ html,body{margin:0;padding:0;font-family:system-ui, -apple-system, 'Segoe UI', R
   backdrop-filter: blur(6px);
 }
 .header-inner{display:flex;align-items:center;justify-content:space-between;min-height:64px;padding:10px 0}
-.brand{font-weight:700;text-decoration:none;color:var(--text);font-size:1.1rem}
+.brand{font-weight:700;text-decoration:none;color:var(--text);font-size:1.1rem;padding:5px}
 
 /* Navigation */
 .nav-list{display:flex;gap:18px;list-style:none;margin:0;padding:0}
@@ -39,7 +44,7 @@ html,body{margin:0;padding:0;font-family:system-ui, -apple-system, 'Segoe UI', R
 .hamburger{display:none;border:1px solid var(--border);background:transparent;padding:6px 10px;border-radius:8px;cursor:pointer}
 
 /* Main spacing */
-.main{padding:28px 0}
+.main{padding:20px}
 
 /* Section header */
 .section-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
