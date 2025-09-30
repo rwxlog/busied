@@ -1,9 +1,9 @@
 ---
 title: "Service 001 — A Simple Intro"
-image: "images/img1.svg"
+image: "images/upcoming-service.svg"
 date: 2025-01-01
-categories: ["faith"]
-summary: "This is a short summary of service 001 for homepage."
+categories: [""]
+summary: "A short summary here."
 ---
 
 Your full post content here...

@@ -13,63 +13,63 @@
       <link>http://localhost:1313/posts/post-009/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-009/</guid>
-      <description>This is a short summary of post 009 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 008 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-008/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-008/</guid>
-      <description>This is a short summary of post 008 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 007 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-007/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-007/</guid>
-      <description>This is a short summary of post 007 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 006 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-006/</link>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-006/</guid>
-      <description>This is a short summary of post 006 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 005 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-005/</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-005/</guid>
-      <description>This is a short summary of post 005 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 004 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-004/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-004/</guid>
-      <description>This is a short summary of post 004 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 003 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-003/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-003/</guid>
-      <description>This is a short summary of post 003 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 002 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-002/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-002/</guid>
-      <description>This is a short summary of post 002 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
     <item>
       <title>Post 001 — A Simple Intro</title>
       <link>http://localhost:1313/posts/post-001/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/post-001/</guid>
-      <description>This is a short summary of post 001 for homepage.</description>
+      <description>A short summary here.</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 ---
 title: "Course 007 — Coming Soon"
-image: "images/img7.svg"
+image: "images/upcoming-course.svg"
 date: 2025-01-30
-categories: ["worldview"]
-summary: "This is a short summary of course 007 for homepage."
+categories: [""]
+summary: "A short summary here."
 ---
 
 Full post content here...

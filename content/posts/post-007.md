@@ -1,9 +1,9 @@
 ---
 title: "Post 007 — A Simple Intro"
-image: "images/img7.svg"
+image: "images/upcoming-post.svg"
 date: 2025-01-30
-categories: ["faith"]
-summary: "This is a short summary of post 007 for homepage."
+categories: [""]
+summary: "A short summary here."
 ---
 
 Your full post content here...
